@@ -16,7 +16,6 @@ Dibuat sebagai bagian dari studi/pengembangan di bidang *Computer Vision* dan *A
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **Python 3.x**
 - **InsightFace** – untuk deteksi dan ekstraksi fitur wajah
 - **CodeFormer** – untuk restorasi atau peningkatan resolusi wajah
 - **OpenCV** – untuk pemrosesan gambar
@@ -27,4 +26,4 @@ Dibuat sebagai bagian dari studi/pengembangan di bidang *Computer Vision* dan *A
 ## 🛠️ Hasil Swap
 
 ![Hasil Swap](swap_1_photo.png)
-![Hasil Swap](swap_2_photo.png)
+![Hasil Swap](swap_2_photos.png)
