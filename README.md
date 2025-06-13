@@ -20,7 +20,6 @@ Dibuat sebagai bagian dari studi/pengembangan di bidang *Computer Vision* dan *A
 - **InsightFace** – untuk deteksi dan ekstraksi fitur wajah
 - **CodeFormer** – untuk restorasi atau peningkatan resolusi wajah
 - **OpenCV** – untuk pemrosesan gambar
-- **Flask / Streamlit / Gradio** (opsional) – untuk antarmuka web
 - **HTML/CSS** – untuk tampilan antarmuka pengguna
 
 ---
