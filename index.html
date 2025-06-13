@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+  <title>Face Swapper</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <h2>Upload Source and Target Image</h2>
+  <form method="POST" enctype="multipart/form-data">
+    <label>Source Face:</label><br>
+    <input type="file" name="source" required><br>
+    <label>Target Face:</label><br>
+    <input type="file" name="target" required><br><br>
+    <button type="submit">Swap Faces</button>
+  </form>
+
+  {% if result_img %}
+  <h3>Source - Target - Result</h3>
+  <div class="image-container">
+    <div>
+      <p>Source</p>
+      <img src="{{ url_for('static', filename='source_preview.jpg') }}">
+    </div>
+    <div>
+      <p>Target</p>
+      <img src="{{ url_for('static', filename='target_preview.jpg') }}">
+    </div>
+    <div>
+      <p>Result</p>
+      <img src="{{ url_for('static', filename='output.jpg') }}">
+    </div>
+  </div>
+  {% endif %}
+</body>
+</html>
+
+
