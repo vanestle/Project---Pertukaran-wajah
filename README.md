@@ -23,6 +23,6 @@ Dibuat sebagai bagian dari studi/pengembangan di bidang *Computer Vision* dan *A
 - **HTML/CSS** – untuk tampilan antarmuka pengguna
 
 ---
-![Hasil Swap](swap%201%20photo.png)
-![Hasil Swap](swap%202%20photos.png)
+![Hasil Swap](swap_1_photo.png)
+
 
