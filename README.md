@@ -26,5 +26,3 @@ Dibuat sebagai bagian dari studi/pengembangan di bidang *Computer Vision* dan *A
 ## 🛠️ Hasil Swap
 
 ![Hasil Swap](swap_1_photo.png)
-![Hasil Swap](swap_2_photos.png)
-
